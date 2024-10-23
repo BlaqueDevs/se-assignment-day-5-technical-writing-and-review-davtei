@@ -36,6 +36,19 @@
 - Relate complex concepts to everyday experiences to make them more relatable and easy to grasp.
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+
+- Use simple and clear words that are easy to understand.
+
+- Break down complex concepts into smaller, manageable parts.
+
+- Use visual aids such as diagrams, charts and illustrations to complement text and enhance understanding.
+
+- Effectively organize content by using headings, bullet points and lists to structure information clearly and make it easier to skim and digest.
+
+- Relate unfamiliar concepts to everyday experiences through analogies or storytelling to make them more relatable.
+
+
+
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
