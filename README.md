@@ -25,7 +25,15 @@
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 
+- Conduct surveys and feedback polls to understand audience’s familiarity with the topic.
 
+- Carryout audience analysis by using tools like an Audience Needs Map to access demographics and knowledge levels before the presentation.
+
+- Start with questions to assess audience’s understanding and adjust content based on their responses during the presentation.
+
+- Use plain language and explain necessary jargon upfront to ensure clarity.
+
+- Relate complex concepts to everyday experiences to make them more relatable and easy to grasp.
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
