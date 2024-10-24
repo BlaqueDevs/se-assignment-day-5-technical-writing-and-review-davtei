@@ -85,8 +85,39 @@ Simplified: I will show you how to complete the task.
 Impact: Show is a more straightforward verb that conveys the same meaning without sounding formal or complex.
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
+
+- Abstract concepts are made more digestible when unfamiliar ideas are expressed as with examples.
+
+- Visuals engage multiple senses and hence, enhance memory retention.
+
+- Complex ideas can be easily simplified by comparing them to well-known concepts.
+
+- Learning experience becomes more enjoyable and effective when visual storytelling and relatable examples are used as they engage audience interest.
+
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+
+- Line charts - for showing trends over time
+
+- Bar charts - for detailed price analysis within a specific time frame
+
+- Candlestick charts - for short-term trading analysis
+
+- Renko charts - used to focus on significant price movements while ignoring time
+
+- Point and Figure charts - for long-term trend analysis
+
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
+
+- Provide clear structure which allows readers to navigate a document easily
+
+- Enable readers to quickly and easily locate specific information without reading the entire document
+
+- Help readers to be able to understand how concepts are interconnected 
+
+- Enhance readability by creating visual breaks that makes a document easier to read
+
+- Improve accessibility for users of assistive technologies
+
 ## 10. What are some best practices for creating effective headings and subheadings?
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 ## 12. How can you succinctly convey the purpose and key features of a product?
